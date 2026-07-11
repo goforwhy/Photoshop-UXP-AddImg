@@ -1,7 +1,7 @@
 {
   "id": "cn.gapsun.hanxi.addimg",
   "name": "导入器",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "寒隙",
   "description": "常用图片快速置入工具，点击即可置入",
   "main": "index.html",
@@ -41,18 +41,12 @@
       },
       "icons": [
         {
-          "width": 32,
-          "height": 32,
-          "path": "icons/dark@1x.png",
-          "scale": 1,
-          "theme": "darkest"
-        },
-        {
-          "width": 64,
-          "height": 64,
-          "path": "icons/dark@2x.png",
-          "scale": 2,
-          "theme": "darkest"
+          "width": 23,
+          "height": 23,
+          "path": "icons/icon.png",
+          "scale": [1, 2],
+          "theme": ["darkest", "dark", "medium", "lightest", "light", "all"],
+          "species": ["panel"]
         }
       ],
       "label": {
@@ -64,16 +58,10 @@
     {
       "width": 23,
       "height": 23,
-      "path": "icons/dark@1x.png",
-      "scale": 1,
-      "theme": "darkest"
-    },
-    {
-      "width": 46,
-      "height": 46,
-      "path": "icons/dark@2x.png",
-      "scale": 2,
-      "theme": "darkest"
+      "path": "icons/icon.png",
+      "scale": [1, 2],
+      "theme": ["darkest", "dark", "medium", "lightest", "light", "all"],
+      "species": ["pluginList"]
     }
   ]
 }

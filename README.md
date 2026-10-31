@@ -18,7 +18,8 @@
 
 ## 安装
 方法一：下载 [cn.gapsun.hanxi.addimg_PS.ccx](./cn.gapsun.hanxi.addimg_PS.ccx)，双击安装（需有 Adobe Creative Cloud）<br>
-方法二：下载 file 文件夹，将文件夹放在 `C:\Program Files\Adobe\Adobe Photoshop[你的PS版本]\Plug-ins\`，重启 PS
+方法二：下载 file 文件夹，将文件夹放在 `C:\Program Files\Adobe\Adobe Photoshop[你的PS版本]\Plug-ins\`，重启 PS<br>
+方法三：右键Photoshop快捷方式，点击 <打开文件位置>，找到 <Plug-ins>文件夹打开，将本插件文件夹整体放入，重启PS即可。
 
 ## 环境要求
 
@@ -26,5 +27,5 @@ Adobe Photoshop 23.0+<br>
 实际测试Phpotoshop2026 v27.2.0可用。其他版本是否可用未知...
 
 ## 关于
-反馈地址：q7vw3vq2l@mozmail.com <br>
+反馈地址：a3116509562@163.com <br>
 个人站点：[gapsun.cn](https://gapsun.cn)
